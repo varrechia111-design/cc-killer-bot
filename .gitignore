@@ -1,0 +1,11 @@
+# Python virtual environments
+venv/
+
+# Byte-compiled files
+__pycache__/
+
+# Environment variables
+.env
+
+# Database files
+database.db
